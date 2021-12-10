@@ -182,7 +182,7 @@ curseforge {
   apiKey = "${credentials.curseforge_api_token}"
   project {
     id = "${curseforge_project_id}"
-    changelog = '[[ --Change Log-- ]]'
+    changelog = 'See https://github.com/MarkusBordihn/BOs-Critical-Version-Forcer/commits/main'
     releaseType = 'release'
     addGameVersion("1.18")
     addGameVersion("Forge")
