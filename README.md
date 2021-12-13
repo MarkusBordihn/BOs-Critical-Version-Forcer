@@ -6,6 +6,14 @@ This mod simple enforce a specific version of Minecraft Forge to make sure secur
 
 **Note: If your Minecraft Forge is crashing because of this mod, please update to a newer version!**
 
+## How to use ?
+
+Just add this mod to your mod pack or your Minecraft Forge mod folder.
+
+## Source Code
+
+You can inspect the used code under https://github.com/MarkusBordihn/BOs-Critical-Version-Forcer for each version.
+
 ## Version History
 
 ### 1.18
